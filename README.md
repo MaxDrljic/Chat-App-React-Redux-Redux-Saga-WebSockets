@@ -1,3 +1,9 @@
+# Chat-App-React-Redux-Redux-Saga-WebSockets
+
+Chat application used to generate random names, give the ability to type messages, send them and print the result on the screen. Has basic functionality like a real-chat app has, but in this case, open multiple localhost:3000 instances to test it out. Different names should be displayed, like the messages you type in the input box.
+
+Be sure to open two consoles, first is for the front end, and the second one is for the server. Go in the project folders, cd into root project and /server directory, do `yarn start` and `node app.js` for the server. Try opening multiple instances of localhost to really test out the chat application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2432,3 +2438,5 @@ In the future, we might start automatically compiling incompatible third-party m
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 "# Chat-App-React-Redux-Redux-Saga-WebSockets" 
+
+
